@@ -99,7 +99,7 @@
 <br/>
 
 
-  ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Durga-Sankar/Durga-Sankar/blob/output/github-contribution-grid-snake.svg)
 
 #
 
