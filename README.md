@@ -72,9 +72,9 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Github Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
+  <a href="https://github.com/Durga-Sankar" target="_blank">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Durga-Sankar&show_icons=true&theme=react" alt="Durga-Sankar's Github Stats" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga-Sankar&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
