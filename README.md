@@ -63,10 +63,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/durga-sankar-sahoo/" target="_blank">
-    <code><img width="51" src="images/images.jpg"/></code>
+    <code><img src="images/images.jpg"/></code>
   </a>
   <a href="mailto: durgasankarsahoo12@gmail.com" target="_blank">
-    <code><img width="55" src="images/unnamed.png"/></code>
+    <code><img src="images/unnamed.png"/></code>
   </a>
 </p>
 <br/>
