@@ -13,10 +13,10 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 
-<li> 🔭 I’m currently working on Machine Learning & DevOps</li>
+<li> 🔭 I’m currently working on FullStack & DevOps</li>
 <li> 🌱 I’m currently learning ... Deep Learning</li>
-<li> 💬 Ask me about ... Machine Learning</li>
-<li> 💻 𝖨'𝗆 MLOps aspirant</li>
+<!-- <li> 💬 Ask me about ... Machine Learning</li> -->
+<!-- <li> 💻 𝖨'𝗆 MLOps aspirant</li> -->
 <li> 😍 Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
@@ -24,9 +24,10 @@
 
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <!-- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/> -->
+ <img style="margin: auto;" src="images\javascript_logo.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="images\python.png" alt=python width="60" height="60"/>
 </p>
 
 
@@ -63,10 +64,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/durga-sankar-sahoo/" target="_blank">
-    <code><img src="images/images.jpg"/></code>
+    <code><img src="images/images.jpg" width="100" height="100"/></code>
   </a>
   <a href="mailto: durgasankarsahoo12@gmail.com" target="_blank">
-    <code><img src="images/unnamed.png"/></code>
+    <code><img src="images/unnamed.png" width="100" height="100" /></code>
   </a>
 </p>
 <br/>
