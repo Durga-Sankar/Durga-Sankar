@@ -5,20 +5,20 @@
     <img src="https://img.shields.io/badge/linkedin-durga-blue">
   </a>
   
-  <a href="https://www.instagram.com/dr_strange_1210/">
+  <!-- <a href="https://www.instagram.com/dr_strange_1210/">
     <img src="https://img.shields.io/badge/instagram-durga-red">
-  </a>
+  </a> -->
 </p>
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-
-<li> 🔭 I’m currently working on FullStack & DevOps</li>
-<li> 🌱 I’m currently learning ... Deep Learning</li>
-<!-- <li> 💬 Ask me about ... Machine Learning</li> -->
-<!-- <li> 💻 𝖨'𝗆 MLOps aspirant</li> -->
-<li> 😍 Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
-<li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
+  <li>💻 Frontend Developer specializing in Angular</li>
+  <li>🔭 Familiar with Full Stack development and DevOps practices</li>
+  <li>🌱 Currently diving into Deep Learning</li>
+  <!-- <li>💬 Open to chat about Machine Learning</li> -->
+  <!-- <li>💻 Exploring the world of MLOps</li> -->
+  <li>🎧 Coding + Music = ❤️</li>
+  <li>😄 Pronouns: He/Him</li>
 
 <br/>
 
@@ -26,8 +26,9 @@
 <p align="left">
  <!-- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/> -->
- <img style="margin: auto;" src="images\javascript_logo.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="images\python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="images/Angular.jpg" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="images/javascript_logo.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="images/Python.jpg" alt=python width="60" height="60"/>
 </p>
 
 
@@ -47,8 +48,8 @@
 
 <p align="center">
   <a href="https://github.com/Durga-Sankar" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Durga-Sankar&show_icons=true&theme=react" alt="Durga-Sankar's Github Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga-Sankar&layout=compact&theme=react" alt="Most Used Languages" />
+    <img width="460px" src="https://github-readme-stats.vercel.app/api?username=Durga-Sankar&show_icons=true&theme=react" alt="Durga-Sankar's Github Stats" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga-Sankar&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
